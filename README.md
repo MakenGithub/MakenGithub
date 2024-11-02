@@ -1,6 +1,6 @@
 👋 Hi, I’m @MakenGithub
 
-🌍 I’m from Argentina, studying Computer Engineering at the National University of the Northwest of Buenos Aires Province (UNNOBA). I am fluent in Spanish and currently learning English.
+🌍 I’m from Argentina, studying Computer Engineering at the UNNOBA (National University of the Northwest of Buenos Aires Province). I am fluent in Spanish and currently learning English.
 
 👀 I’m interested in software development for microcontrollers and embedded systems. I specialize in C++ and Assembler programming languages. I also have an interest in home automation and IoT, and although I’m a beginner in this area, I plan to dedicate myself to it in the future.
 
