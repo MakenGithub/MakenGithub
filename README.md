@@ -1,7 +1,3 @@
-
-markdown
-Copiar
-Editar
 <h1 align="center">Hi 👋, I'm Marcos Daniel Meniño</h1>
 <h3 align="center">Computer Engineering student | Passionate about Embedded Systems and IoT</h3>
 
