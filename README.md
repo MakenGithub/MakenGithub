@@ -50,7 +50,7 @@
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Daniel%20Meniño-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcosdanielmenino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Daniel%20Meniño-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcos-daniel-meni%C3%B1o-b62975301/)
 [![Gmail](https://img.shields.io/badge/Gmail-marcosdanielm2906@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosdanielm2906@gmail.com)
 
 ---
